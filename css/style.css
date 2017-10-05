@@ -1,0 +1,18 @@
+/* YOUR CUSTOM STYLES */
+
+.fa{
+  text-align:center
+}
+.activator {
+  width: 100%;
+}
+
+.site-description {
+  padding: 10px;
+  text-align: left;
+}
+.project-background-image {
+  background-repeat: no-repeat;
+  background-image: url(http://interfacelift.com/wallpaper/previews/02179_piertonowhere_672x420.jpg);
+  background-size: cover;
+}
