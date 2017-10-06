@@ -16,3 +16,24 @@
   background-image: url(http://interfacelift.com/wallpaper/previews/02179_piertonowhere_672x420.jpg);
   background-size: cover;
 }
+.aboutMe {
+   text-align: center;
+}
+.skill {
+    padding: 0.15em 0.9em;
+    padding-top: 0.15em;
+    padding-right: 0.9em;
+    padding-bottom: 0.15em;
+    padding-left: 0.9em;
+    font-size: 0.9em;
+    background-color: silver;
+    border-radius: 41.625em;
+    border-top-left-radius: 41.625em;
+    border-bottom-right-radius: 41.625em;
+    border-bottom-left-radius: 41.625em;
+    background-color: darkgrey;
+    display: inline;
+}
+.others-skills li {
+    display: inline;
+}
