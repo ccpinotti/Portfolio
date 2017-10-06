@@ -37,3 +37,9 @@
 .others-skills li {
     display: inline;
 }
+.headers {
+  font-family: 'Montserrat', sans-serif;
+}
+.followUp {
+  font-size: 50px;
+}
