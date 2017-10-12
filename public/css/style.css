@@ -46,3 +46,13 @@
 .wayfarer3 {
   height: 100%;
 }
+.card-container{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+@media (max-width: 768px) {
+  .intro-info-content h1 {
+    font-size: 32px;
+  }
+}
