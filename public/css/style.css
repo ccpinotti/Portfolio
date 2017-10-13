@@ -47,12 +47,25 @@
   height: 100%;
 }
 .card-container{
-  margin-top: 20px;
-  margin-bottom: 20px;
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
 
 @media (max-width: 768px) {
   .intro-info-content h1 {
     font-size: 32px;
   }
+}
+.resume-container {
+  min-height: 850px;
+}
+.project-container{
+  min-height: 850px;
+}
+.about-container{
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.proj-card{
+  min-height: 450px;
 }
